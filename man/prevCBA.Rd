@@ -4,7 +4,7 @@
 \alias{prevCBA}
 \title{prevCBA}
 \usage{
-prevCBA(data, rodada, meanCBPfm, meanCBPsm, meanCBPfv, meanCBPsv, nsim)
+prevCBA(data, rodada, meanCBPfm, meanCBPsm, meanCBPfv, meanCBPsv, nsim, CopaBR, Lib)
 }
 \arguments{
 \item{data}{banco de dados}
